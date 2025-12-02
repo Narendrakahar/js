@@ -1,0 +1,6 @@
+{
+  "name": "My Codespace",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+  "features": {},
+  "postCreateCommand": "npm install"
+}
